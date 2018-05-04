@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/360_sphere.unity
+  isLoaded: 1
+  isActive: 1
