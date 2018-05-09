@@ -6,5 +6,5 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/360_sphere.unity
-    guid: ed7978d07204b4271aca9c093607c776
+    path: Assets/Scenes/BodySwap.unity
+    guid: 7e16346ac62e44fc9aac257c295063cb
