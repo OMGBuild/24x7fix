@@ -22,6 +22,7 @@ MonoBehaviour:
   - pbFillHoleSelectsEntirePath
   - pb_SmoothingGroupEditor::m_ShowPreview
   - pb_SmoothingGroupEditor::m_PreviewDither
+  - pbShowCollider
   m_Int_keys:
   - pbHandleAlignment
   - pbDefaultEditLevel
@@ -43,11 +44,15 @@ MonoBehaviour:
   m_String_keys:
   - pbCurrentMaterialPalette
   - pbVertexColorPrefs8
+  - pbVertexColorPrefs1
+  - pbVertexColorPrefs2
+  - pbVertexColorPrefs3
+  - pbVertexColorPrefs4
   m_Color_keys: []
   m_Material_keys:
   - pbDefaultMaterial
-  m_Bool_values: 01000000000000000100
-  m_Int_values: 00000000000000000200000000000000020000000200000000000000020000000200000000000000
+  m_Bool_values: 0100000000000000010001
+  m_Int_values: 00000000010000000200000000000000020000000200000001000000020000000200000001000000
   m_Float_values:
   - 0
   - 0
@@ -58,6 +63,10 @@ MonoBehaviour:
   m_String_values:
   - Assets/ProCore/ProBuilder/Data/Default Material Palette.asset
   - RGBA(0.294, 0.294, 0.294, 1.000)
+  - RGBA(0.000, 0.628, 1.000, 1.000)
+  - RGBA(0.732, 0.732, 0.904, 1.000)
+  - RGBA(0.016, 0.511, 1.000, 1.000)
+  - RGBA(0.817, 0.868, 0.817, 1.000)
   m_Color_values: []
   m_Material_values:
   - {fileID: 2100000, guid: 55296d1b6ee54e14e8eb4648d4b448ee, type: 2}
